@@ -1,0 +1,5 @@
+
+Beef Stock  - 26.0
+Fish Stock  - 27.0
+Classic Salad  - 49.0
+TOTAL PRET 102.0
